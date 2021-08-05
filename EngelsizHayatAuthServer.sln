@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EngelsizHayatAuthServer.API", "EngelsizHayatAuthServer.API\EngelsizHayatAuthServer.API.csproj", "{7660CF7F-BD37-48B3-869A-7596A2AA5DC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EngelsizHayatAuthServer.Core", "EngelsizHayatAuthServer.Core\EngelsizHayatAuthServer.Core.csproj", "{80EA6C26-B76B-4519-8FD4-F8D7D7928B36}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EngelsizHayatAuthServer.Data", "EngelsizHayatAuthServer.Data\EngelsizHayatAuthServer.Data.csproj", "{606A5BA1-7DC5-4221-8468-B3A56694FC5A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EngelsizHayatAuthServer.Service", "EngelsizHayatAuthServer.Service\EngelsizHayatAuthServer.Service.csproj", "{A5ED5090-9DA1-459E-84EB-F8813631E054}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedLibrary", "SharedLibrary\SharedLibrary.csproj", "{35BA860E-B691-4401-B7B8-77783E2CEB44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7660CF7F-BD37-48B3-869A-7596A2AA5DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7660CF7F-BD37-48B3-869A-7596A2AA5DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7660CF7F-BD37-48B3-869A-7596A2AA5DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7660CF7F-BD37-48B3-869A-7596A2AA5DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80EA6C26-B76B-4519-8FD4-F8D7D7928B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EA6C26-B76B-4519-8FD4-F8D7D7928B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EA6C26-B76B-4519-8FD4-F8D7D7928B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EA6C26-B76B-4519-8FD4-F8D7D7928B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{606A5BA1-7DC5-4221-8468-B3A56694FC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606A5BA1-7DC5-4221-8468-B3A56694FC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606A5BA1-7DC5-4221-8468-B3A56694FC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606A5BA1-7DC5-4221-8468-B3A56694FC5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5ED5090-9DA1-459E-84EB-F8813631E054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5ED5090-9DA1-459E-84EB-F8813631E054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5ED5090-9DA1-459E-84EB-F8813631E054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5ED5090-9DA1-459E-84EB-F8813631E054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35BA860E-B691-4401-B7B8-77783E2CEB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35BA860E-B691-4401-B7B8-77783E2CEB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35BA860E-B691-4401-B7B8-77783E2CEB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35BA860E-B691-4401-B7B8-77783E2CEB44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3DDBD71-92B4-4806-B7B4-90230EDE0F8D}
+	EndGlobalSection
+EndGlobal
